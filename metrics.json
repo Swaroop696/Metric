@@ -1,0 +1,110 @@
+{
+  "user-engagement": [
+    {
+      "name": "Average Watch Time",
+      "url": "https://your-grafana-instance/d/dashboard-id/average-watch-time"
+    },
+    {
+      "name": "Daily/Weekly Active Users (DAU/WAU)",
+      "url": "https://your-grafana-instance/d/dashboard-id/daily-weekly-active-users"
+    },
+    {
+      "name": "Content Completion Rate",
+      "url": "https://your-grafana-instance/d/dashboard-id/content-completion-rate"
+    },
+    {
+      "name": "Time of Day Usage",
+      "url": "https://your-grafana-instance/d/dashboard-id/time-of-day-usage"
+    }
+  ],
+  "content-performance": [
+    {
+      "name": "Top Performing Content",
+      "url": "https://your-grafana-instance/d/dashboard-id/top-performing-content"
+    },
+    {
+      "name": "Genre Popularity",
+      "url": "https://your-grafana-instance/d/dashboard-id/genre-popularity"
+    },
+    {
+      "name": "Content Discovery",
+      "url": "https://your-grafana-instance/d/dashboard-id/content-discovery"
+    },
+    {
+      "name": "Content Retention Rate",
+      "url": "https://your-grafana-instance/d/dashboard-id/content-retention-rate"
+    }
+  ],
+  "user-acquisition": [
+    {
+      "name": "New vs. Returning Users",
+      "url": "https://your-grafana-instance/d/dashboard-id/new-vs-returning-users"
+    },
+    {
+      "name": "Churn Rate",
+      "url": "https://your-grafana-instance/d/dashboard-id/churn-rate"
+    },
+    {
+      "name": "Subscription Conversion Rate",
+      "url": "https://your-grafana-instance/d/dashboard-id/subscription-conversion-rate"
+    }
+  ],
+  "monetization": [
+    {
+      "name": "ARPU (Average Revenue Per User)",
+      "url": "https://your-grafana-instance/d/dashboard-id/arpu"
+    },
+    {
+      "name": "Subscription Tier Distribution",
+      "url": "https://your-grafana-instance/d/dashboard-id/subscription-tier-distribution"
+    },
+    {
+      "name": "Ad Revenue Insights",
+      "url": "https://your-grafana-instance/d/dashboard-id/ad-revenue-insights"
+    }
+  ],
+  "technical-performance": [
+    {
+      "name": "Buffering Rate",
+      "url": "https://your-grafana-instance/d/dashboard-id/buffering-rate"
+    },
+    {
+      "name": "App Crash Rate",
+      "url": "https://your-grafana-instance/d/dashboard-id/app-crash-rate"
+    },
+    {
+      "name": "Load Time Analysis",
+      "url": "https://your-grafana-instance/d/dashboard-id/load-time-analysis"
+    }
+  ],
+  "demographics": [
+    {
+      "name": "User Demographics",
+      "url": "https://your-grafana-instance/d/dashboard-id/user-demographics"
+    },
+    {
+      "name": "Device Usage",
+      "url": "https://your-grafana-instance/d/dashboard-id/device-usage"
+    }
+  ],
+  "recommendation-effectiveness": [
+    {
+      "name": "Recommendation Click-Through Rate",
+      "url": "https://your-grafana-instance/d/dashboard-id/recommendation-click-through-rate"
+    },
+    {
+      "name": "Personalization Score",
+      "url": "https://your-grafana-instance/d/dashboard-id/personalization-score"
+    }
+  ],
+  "custom-insights": [
+    {
+      "name": "Content Heatmaps",
+      "url": "https://your-grafana-instance/d/dashboard-id/content-heatmaps"
+    },
+    {
+      "name": "Subscription Predictive Modeling",
+      "url": "https://your-grafana-instance/d/dashboard-id/subscription-predictive-modeling"
+    }
+  ]
+}
