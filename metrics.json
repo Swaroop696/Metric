@@ -2,109 +2,109 @@
   "user-engagement": [
     {
       "name": "Average Watch Time",
-      "url": "https://your-grafana-instance/d/dashboard-id/average-watch-time"
+      "url": "https://grafana-new.mgmt.tv3cloud.net/d/f245a39a-b6c9-421f-b516-3b44d44bfaf0/average-watch-time?orgId=3"
     },
     {
       "name": "Daily/Weekly Active Users (DAU/WAU)",
-      "url": "https://your-grafana-instance/d/dashboard-id/daily-weekly-active-users"
+      "url": "https://grafana-new.mgmt.tv3cloud.net/d/a47ad859-fb69-4517-87ae-45ec38ee062f/daily-weekly-active-users-dau-wau?orgId=3"
     },
     {
       "name": "Content Completion Rate",
-      "url": "https://your-grafana-instance/d/dashboard-id/content-completion-rate"
+      "url": "https://grafana-new.mgmt.tv3cloud.net/d/f1ad1b3e-a8ab-4eb8-b929-1da9a34fe9aa/content-completion-rate?orgId=3"
     },
     {
       "name": "Time of Day Usage",
-      "url": "https://your-grafana-instance/d/dashboard-id/time-of-day-usage"
+      "url": "https://grafana-new.mgmt.tv3cloud.net/d/ac04e756-23a7-44b3-941c-b9589c64291b/time-of-day-usage?orgId=3"
     }
   ],
   "content-performance": [
     {
       "name": "Top Performing Content",
-      "url": "https://your-grafana-instance/d/dashboard-id/top-performing-content"
+      "url": "https://grafana-new.mgmt.tv3cloud.net/d/da6734dc-b3b5-4300-baee-f231305b3617/top-performing-content?orgId=3"
     },
     {
       "name": "Genre Popularity",
-      "url": "https://your-grafana-instance/d/dashboard-id/genre-popularity"
+      "url": "https://grafana-new.mgmt.tv3cloud.net/d/c6961e22-b3a2-467f-8311-2aa70fd553f2/genre-popularity?orgId=3"
     },
     {
       "name": "Content Discovery",
-      "url": "https://your-grafana-instance/d/dashboard-id/content-discovery"
+      "url": "https://grafana-new.mgmt.tv3cloud.net/d/d025ad6d-be91-4639-8839-c6a6a08f7b85/content-discovery?orgId=3"
     },
     {
       "name": "Content Retention Rate",
-      "url": "https://your-grafana-instance/d/dashboard-id/content-retention-rate"
+      "url": "https://grafana-new.mgmt.tv3cloud.net/d/a3359809-63b4-4d0a-a0ea-0bf07a9038cf/content-retention-rate?orgId=3"
     }
   ],
   "user-acquisition": [
     {
       "name": "New vs. Returning Users",
-      "url": "https://your-grafana-instance/d/dashboard-id/new-vs-returning-users"
+      "url": "https://grafana-new.mgmt.tv3cloud.net/d/cf448d63-f9b2-44ad-b7bb-9030af895d05/new-vs-returning-users?orgId=3"
     },
     {
       "name": "Churn Rate",
-      "url": "https://your-grafana-instance/d/dashboard-id/churn-rate"
+      "url": "https://grafana-new.mgmt.tv3cloud.net/d/d0d394b6-c0e8-42ca-b725-00784029ca8d/churn-rate?orgId=3"
     },
     {
       "name": "Subscription Conversion Rate",
-      "url": "https://your-grafana-instance/d/dashboard-id/subscription-conversion-rate"
+      "url": "https://grafana-new.mgmt.tv3cloud.net/d/cf203fa1-164d-4bb6-a754-03557a095664/subscription-conversion-rate?orgId=3"
     }
   ],
   "monetization": [
     {
       "name": "ARPU (Average Revenue Per User)",
-      "url": "https://your-grafana-instance/d/dashboard-id/arpu"
+      "url": "https://grafana-new.mgmt.tv3cloud.net/d/d66825c0-5385-45fc-96a1-5af15b3f6ae7/arpu-average-revenue-per-user?orgId=3"
     },
     {
       "name": "Subscription Tier Distribution",
-      "url": "https://your-grafana-instance/d/dashboard-id/subscription-tier-distribution"
+      "url": "https://grafana-new.mgmt.tv3cloud.net/d/e316d219-5328-4156-b616-7a07bdd38284/subscription-tier-distribution?orgId=3"
     },
     {
       "name": "Ad Revenue Insights",
-      "url": "https://your-grafana-instance/d/dashboard-id/ad-revenue-insights"
+      "url": "https://grafana-new.mgmt.tv3cloud.net/d/f99a5fd5-f9e3-4a79-b0c2-f049aff56aa2/ad-revenue-insights?orgId=3"
     }
   ],
   "technical-performance": [
     {
       "name": "Buffering Rate",
-      "url": "https://your-grafana-instance/d/dashboard-id/buffering-rate"
+      "url": "https://grafana-new.mgmt.tv3cloud.net/d/e09d4794-5bbf-4bb5-8e17-e5cda709a850/buffering-rate?orgId=3"
     },
     {
       "name": "App Crash Rate",
-      "url": "https://your-grafana-instance/d/dashboard-id/app-crash-rate"
+      "url": "https://grafana-new.mgmt.tv3cloud.net/d/d7868946-b056-49c9-a968-70f6a66c44d1/app-crash-rate?orgId=3"
     },
     {
       "name": "Load Time Analysis",
-      "url": "https://your-grafana-instance/d/dashboard-id/load-time-analysis"
+      "url": "https://grafana-new.mgmt.tv3cloud.net/d/b380ca89-a9dc-4b9e-aa11-329790553af7/load-time-analysis?orgId=3"
     }
   ],
   "demographics": [
     {
       "name": "User Demographics",
-      "url": "https://your-grafana-instance/d/dashboard-id/user-demographics"
+      "url": "https://grafana-new.mgmt.tv3cloud.net/d/e262a5c1-33cd-4d0f-9dfb-e8367e2e1f58/user-demographics?orgId=3"
     },
     {
       "name": "Device Usage",
-      "url": "https://your-grafana-instance/d/dashboard-id/device-usage"
+      "url": "https://grafana-new.mgmt.tv3cloud.net/d/bb9e945c-e111-4b03-887c-ce3ea7487ee8/device-usage?orgId=3"
     }
   ],
   "recommendation-effectiveness": [
     {
       "name": "Recommendation Click-Through Rate",
-      "url": "https://your-grafana-instance/d/dashboard-id/recommendation-click-through-rate"
+      "url": "https://grafana-new.mgmt.tv3cloud.net/d/e7872649-a8d6-47da-8917-3b6eefd9bfbb/recommendation-click-through-rate?orgId=3"
     },
     {
       "name": "Personalization Score",
-      "url": "https://your-grafana-instance/d/dashboard-id/personalization-score"
+      "url": "https://grafana-new.mgmt.tv3cloud.net/d/a79e9243-534b-46ba-aacd-76a9e2b76202/personalization-score?orgId=3"
     }
   ],
   "custom-insights": [
     {
       "name": "Content Heatmaps",
-      "url": "https://your-grafana-instance/d/dashboard-id/content-heatmaps"
+      "url": "https://grafana-new.mgmt.tv3cloud.net/d/dc38b03f-6753-4e70-9713-3471dd456dca/content-heatmaps?orgId=3"
     },
     {
       "name": "Subscription Predictive Modeling",
-      "url": "https://your-grafana-instance/d/dashboard-id/subscription-predictive-modeling"
+      "url": "https://grafana-new.mgmt.tv3cloud.net/d/b4a0a294-4f3a-4625-bdff-2d75349f7084/subscription-predictive-modeling?orgId=3"
     }
   ]
 }
