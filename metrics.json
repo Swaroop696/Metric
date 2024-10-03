@@ -15,20 +15,8 @@
   ],
   "content-performance": [
     {
-      "name": "Top Performing Content",
+      "name": "Watch Insights",
       "url": "https://grafana-new.mgmt.tv3cloud.net/d/da6734dc-b3b5-4300-baee-f231305b3617/top-performing-content?orgId=3"
-    },
-    {
-      "name": "Genre Popularity",
-      "url": "https://grafana-new.mgmt.tv3cloud.net/d/c6961e22-b3a2-467f-8311-2aa70fd553f2/genre-popularity?orgId=3"
-    },
-    {
-      "name": "Content Discovery",
-      "url": "https://grafana-new.mgmt.tv3cloud.net/d/d025ad6d-be91-4639-8839-c6a6a08f7b85/content-discovery?orgId=3"
-    },
-    {
-      "name": "Content Retention Rate",
-      "url": "https://grafana-new.mgmt.tv3cloud.net/d/a3359809-63b4-4d0a-a0ea-0bf07a9038cf/content-retention-rate?orgId=3"
     }
   ],
   "user-acquisition": [
