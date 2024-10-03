@@ -21,16 +21,8 @@
   ],
   "user-acquisition": [
     {
-      "name": "New vs. Returning Users",
-      "url": "https://grafana-new.mgmt.tv3cloud.net/d/cf448d63-f9b2-44ad-b7bb-9030af895d05/new-vs-returning-users?orgId=3"
-    },
-    {
-      "name": "Churn Rate",
-      "url": "https://grafana-new.mgmt.tv3cloud.net/d/d0d394b6-c0e8-42ca-b725-00784029ca8d/churn-rate?orgId=3"
-    },
-    {
-      "name": "Subscription Conversion Rate",
-      "url": "https://grafana-new.mgmt.tv3cloud.net/d/cf203fa1-164d-4bb6-a754-03557a095664/subscription-conversion-rate?orgId=3"
+      "name": "Unique Users ",
+      "url": "https://grafana-new.mgmt.tv3cloud.net/d/cf448d63-f9b2-44ad-b7bb-9030af895d05/unique-users?from=now-6h&to=now"
     }
   ],
   "monetization": [
