@@ -25,23 +25,9 @@
       "url": "https://grafana-new.mgmt.tv3cloud.net/d/cf448d63-f9b2-44ad-b7bb-9030af895d05/unique-users?from=now-6h&to=now"
     }
   ],
-  "monetization": [
-    {
-      "name": "ARPU (Average Revenue Per User)",
-      "url": "https://grafana-new.mgmt.tv3cloud.net/d/d66825c0-5385-45fc-96a1-5af15b3f6ae7/arpu-average-revenue-per-user?orgId=3"
-    },
-    {
-      "name": "Subscription Tier Distribution",
-      "url": "https://grafana-new.mgmt.tv3cloud.net/d/e316d219-5328-4156-b616-7a07bdd38284/subscription-tier-distribution?orgId=3"
-    },
-    {
-      "name": "Ad Revenue Insights",
-      "url": "https://grafana-new.mgmt.tv3cloud.net/d/f99a5fd5-f9e3-4a79-b0c2-f049aff56aa2/ad-revenue-insights?orgId=3"
-    }
-  ],
   "technical-performance": [
     {
-      "name": "Buffering Rate",
+      "name": "Rebuffer Percentage",
       "url": "https://grafana-new.mgmt.tv3cloud.net/d/e09d4794-5bbf-4bb5-8e17-e5cda709a850/buffering-rate?orgId=3"
     },
     {
