@@ -28,15 +28,11 @@
   "technical-performance": [
     {
       "name": "Rebuffer Percentage",
-      "url": "https://grafana-new.mgmt.tv3cloud.net/d/e09d4794-5bbf-4bb5-8e17-e5cda709a850/buffering-rate?orgId=3"
+      "url": "https://grafana-new.mgmt.tv3cloud.net/d/e09d4794-5bbf-4bb5-8e17-e5cda709a850/rebuffer-percentage"
     },
     {
-      "name": "App Crash Rate",
-      "url": "https://grafana-new.mgmt.tv3cloud.net/d/d7868946-b056-49c9-a968-70f6a66c44d1/app-crash-rate?orgId=3"
-    },
-    {
-      "name": "Load Time Analysis",
-      "url": "https://grafana-new.mgmt.tv3cloud.net/d/b380ca89-a9dc-4b9e-aa11-329790553af7/load-time-analysis?orgId=3"
+      "name": "Errors",
+      "url": "https://grafana-new.mgmt.tv3cloud.net/d/b380ca89-a9dc-4b9e-aa11-329790553af7/errors"
     }
   ],
   "demographics": [
