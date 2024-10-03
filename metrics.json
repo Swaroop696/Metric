@@ -55,10 +55,6 @@
   ],
   "demographics": [
     {
-      "name": "User Demographics",
-      "url": "https://grafana-new.mgmt.tv3cloud.net/d/e262a5c1-33cd-4d0f-9dfb-e8367e2e1f58/user-demographics?orgId=3"
-    },
-    {
       "name": "Device Usage",
       "url": "https://grafana-new.mgmt.tv3cloud.net/d/bb9e945c-e111-4b03-887c-ce3ea7487ee8/device-usage?orgId=3"
     }
