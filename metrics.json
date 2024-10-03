@@ -16,7 +16,7 @@
   "content-performance": [
     {
       "name": "Watch Insights",
-      "url": "https://grafana-new.mgmt.tv3cloud.net/d/da6734dc-b3b5-4300-baee-f231305b3617/top-performing-content?orgId=3"
+      "url": "https://grafana-new.mgmt.tv3cloud.net/d/da6734dc-b3b5-4300-baee-f231305b3617/watch-insights"
     }
   ],
   "user-acquisition": [
