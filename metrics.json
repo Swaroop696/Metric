@@ -22,7 +22,7 @@
   "user-acquisition": [
     {
       "name": "Unique Users ",
-      "url": "https://grafana-new.mgmt.tv3cloud.net/d/cf448d63-f9b2-44ad-b7bb-9030af895d05/unique-users?from=now-6h&to=now"
+      "url": "https://grafana-new.mgmt.tv3cloud.net/d/cf448d63-f9b2-44ad-b7bb-9030af895d05/unique-users?to=now&orgId=3"
     }
   ],
   "technical-performance": [
