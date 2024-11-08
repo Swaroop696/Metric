@@ -64,7 +64,7 @@
   "churned-data": [
     {
       "name": "Churned Users",
-      "url": "https://grafana-new.mgmt.tv3cloud.net/d/bb9e945c-e111-4b03-887c-ce3ea7487ee8/device-usage?orgId=3"
+      "url": "https://grafana-new.mgmt.tv3cloud.net/d/de3bbkgcj7pj4d/churned-users?orgId=3"
     }
   ],
 }
