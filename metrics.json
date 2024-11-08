@@ -62,6 +62,6 @@
     }
   ],
   "churned-users": {
-    "url": "https://grafana-new.mgmt.tv3cloud.net/d/churned-users-dashboard-url"
+    "url": "https://grafana-new.mgmt.tv3cloud.net/d/de3bbkgcj7pj4d/churned-users?orgId=3"
   }
 }
