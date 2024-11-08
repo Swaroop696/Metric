@@ -60,5 +60,8 @@
       "name": "Subscription Predictive Modeling",
       "url": "https://grafana-new.mgmt.tv3cloud.net/d/b4a0a294-4f3a-4625-bdff-2d75349f7084/subscription-predictive-modeling?orgId=3"
     }
-  ]
+  ],
+  "churned-users": {
+    "url": "https://grafana-new.mgmt.tv3cloud.net/d/churned-users-dashboard-url"
+  }
 }
